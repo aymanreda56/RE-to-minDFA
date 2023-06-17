@@ -30,9 +30,11 @@ Regex rules are the normal modern rules which are:
 Input_Regex = "a/*bm/+" #@param {type:"string"}
 nfa_graph, dfa_graph, cleanDFA_graph, minDFA_graph = CompileRegex(Input_Regex)
 ```
-* Write your input regex as a string
+* Write your input regex as a string.
 * Run all
 * Voila
+
+don't be afraid to enter invalid Regex, it will warn you accordingly :)
 
 ---
 
@@ -59,6 +61,12 @@ fourth we implement the Lower-Triangle method to get the minimized DFA, this low
 ## Theory :tea:
 For some in-depth explanations you can refer to my playlist [in Arabic] from here:
 https://youtube.com/playlist?list=PLT7hbSdLHIDXpkQZo8meEKPad3jJQoi0m
+
+---
+
+## TODOs :page_with_curl:
+* make a user-friendly GUI
+* maybe make a REGEX optimizer
 
 
 
