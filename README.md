@@ -18,8 +18,8 @@ Regex rules are the normal modern rules which are:
 | escaping characters | a/*b |
 | escaping inside class | [ab*e] |
 
+<img width="418" alt="Screenshot-2021-10-18-at-01-57-08" src="https://github.com/aymanreda56/RE-to-minDFA/assets/58632281/f26f3fc2-82c1-490a-91fa-315ff792ec71">
 
-![phpxKQIRD](https://github.com/aymanreda56/RE-to-minDFA/assets/58632281/f1b8e54f-57a9-4a74-9fa2-9e77fdfd25b4)
 
 ---
 
