@@ -64,7 +64,7 @@ https://youtube.com/playlist?list=PLT7hbSdLHIDXpkQZo8meEKPad3jJQoi0m
 
 ---
 
-## TODOs :page_with_curl:
+## Future Work, OR TODOs :page_with_curl:
 * make a user-friendly GUI
 * maybe make a REGEX optimizer
 
